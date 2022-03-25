@@ -6,6 +6,9 @@ The purpose of this analysis is to create a report that includes which cryptocur
 ## Four technical analyses:
 
 Preprocessing the Data for PCA
+
 Reducing Data Dimensions Using PCA
+
 Clustering Cryptocurrencies Using K-means
+
 Visualizing Cryptocurrencies Results

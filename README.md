@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Purpose
-The purpose of this analysis is to create a report that includes which cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment.
+The purpose of this analysis is to create a report that includes which cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment using unsupervised machine learning. 
 
 ## Four technical analyses:
 
